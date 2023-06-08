@@ -1,6 +1,6 @@
 # UCU Labs
 
-This repo contains all the labs from the 2nd and some part from the 1st year of the UCU CS program.
+This repo contains the labs from the 2nd year of the UCU CS program.
 
 ## Projects
 
